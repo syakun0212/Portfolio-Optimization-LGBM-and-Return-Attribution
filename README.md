@@ -2,10 +2,10 @@
 ---
 ### Summary
 1. Returns prediction model: LGBM, hyperparameter tuningg with optuna
-2. Model interpretation using SHAP
-3. Portfolio optimization/allocation model: using Pyomo Optimizer
+2. Model interpretation
+3. Portfolio optimization/allocation with Pyomo Optimizer
 4. VIX Volatility Regime with GMM
-5. Return Attribution from Macro & Micro factors
+5. Return Attribution analysis with Macro and Micro factors
 
 
 ##### Details are available in the pdf report
