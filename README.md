@@ -6,6 +6,8 @@
 3. Portfolio optimization/allocation model: using Pyomo Optimizer
 4. VIX Volatility Regime with GMM
 5. Return Attribution from Macro & Micro factors
+
+
 Details are available in the pdf report
 ---
 ### Charts
